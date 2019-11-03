@@ -3,6 +3,7 @@ layout: post
 title:  "Palestinians in the Street: Our Concern, Not Our Concern"
 date:   2019-10-31 22:13:38 -0400
 categories: translation
+permalink: palestinians-in-the-street
 ---
 ![Image of Graffiti in Beirut reading We Have On This Earth What Makes Life Worth Living](https://raw.githubusercontent.com/davidkanj/davidkanj.github.io/master/Images/darweesh.jpeg)
 
