@@ -16,7 +16,7 @@
 title: Placeholder عنصر نائب
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog of writings and translations by David Kanj. My Twitter is @ibn_layla, and my Gmail is my first name dot my last name.
+  A blog of writings and translations by David Kanj. My Twitter is @ibn_layla, and my Gmail is my last name dot my first name.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ibn_layla
