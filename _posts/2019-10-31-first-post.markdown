@@ -62,4 +62,4 @@ Palestinian woman, saboteur, infiltrator, maybe this writing will return to harm
 
 <a name="myfootnote1">1</a>: Rest House Tyr Hotel & Resort, owned by Randa Berri, was [burned](https://twitter.com/ITISDEX/status/1185292926341042178) by protestors for its theft and privatization of the beach. An example of the news headlines can be found [here](https://web.archive.org/save/https://www.lbcgroup.tv/news/d/lebanon-news/478090/lebanese-and-palestinians-arrested-on-charges-of-v/en).
 
-<a name="myfootnote2">2</a>: A.k.a. ["Lebnani"](https://www.youtube.com/watch?v=z53tJLp0NY4) (Lebanese) by Assi El-Helani.
+<a name="myfootnote2">2</a>: A.k.a. ["Lebnani"](https://www.youtube.com/watch?v=z53tJLp0NY4) (Lebanese) by Assi El-Hallani.
