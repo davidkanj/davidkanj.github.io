@@ -5,6 +5,9 @@ date:   2019-10-31 22:13:38 -0400
 categories: translation
 permalink: palestinians-in-the-street
 ---
+
+<meta name="twitter:image" content="https://raw.githubusercontent.com/davidkanj/davidkanj.github.io/master/Images/darweesh.jpeg" />
+
 ![Image of Graffiti in Beirut reading We Have On This Earth What Makes Life Worth Living](https://raw.githubusercontent.com/davidkanj/davidkanj.github.io/master/Images/darweesh.jpeg)
 
 *This blog post will hopefully be the first of many Arabic-English translations. As a Lebanese-Syrian in the US, I experience some of my greatest joys watching friends and comrades throughout the Arab world (and its diasporas) write, organize, and protest for our liberation, most recently with Lebanon's ongoing October Revolution. Based on this enthusiasm and solidarity, I hope to translate some of these writings and share with English-reading audiences.*
